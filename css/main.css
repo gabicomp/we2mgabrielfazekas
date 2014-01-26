@@ -80,8 +80,8 @@ text-align: center;
 .explain{
 	background-image:url('../img/film6.png');
 	background-repeat:repeat-x;
-	margin-top: 440px;
-	padding-top: 30px;
+	margin-top: 400px;
+	padding-top: 4%;
 	color: #bdc3c7;
 	width: 100%;
 	
@@ -106,7 +106,7 @@ text-align: center;
 .divmovie{
 	margin-top: 0px;
 	background-color: #000000;
-	height:60%;
+	padding-bottom: 120px;
 	position: fixed;
 	width: 100%;
 	top: 0px;
